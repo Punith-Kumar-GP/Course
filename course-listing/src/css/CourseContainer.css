@@ -1,0 +1,80 @@
+.course-details-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .course-thumbnail {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  .course-name {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .instructor {
+    font-style: italic;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    margin-bottom: 10px;
+  }
+  
+  .duration {
+    margin-bottom: 10px;
+  }
+  
+  .location {
+    margin-bottom: 10px;
+  }
+  
+  .enrollment-status {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .syllabus-title {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .syllabus-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .syllabus-list li {
+    margin-bottom: 5px;
+  }
+  
+  .prerequisites-title {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .Image img{
+    width: 95%;
+    height: 250px;
+
+    object-fit:unset;
+  }
+  .prerequisites-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .prerequisites-list li {
+    margin-bottom: 5px;
+  }
+  
